@@ -33,12 +33,17 @@
 │   └── train.py
 ├── docs
 │   ├── pdf
-│   │   └── [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
+│   │   └── [패스트캠퍼스] Upstage AI Lab 1기_경진대회 발표자료_CV_6조.pptx
 └── input
     └── data
-        ├── eval
-        └── train
+        ├── meta.csv
+        ├── sample_submission.csv
+        ├── test
+            └── ...
+        ├── train
+            └── ...
+        └── train.csv
+
 ```
 
 ## 3. Data descrption
